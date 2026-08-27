@@ -1,15 +1,15 @@
 <div align="center">
 
-# MOHAMMAD ABRAR ANSAR
-
-### AI/ML BUILDER · ENTREPRENEUR · DEVELOPER · ATHLETE
-
-**Building intelligent systems where AI meets software, hardware and the real world.**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,50:172554,100:06B6D4&text=MOHAMMAD%20ABRAR%20ANSAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20BUILDER%20%E2%80%A2%20ENTREPRENEUR%20%E2%80%A2%20ATHLETE&descSize=16&descAlignY=61&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohammadAbraransar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadAbraransar)
-[![Email](https://img.shields.io/badge/Email-abraransarmd%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraransarmd@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&height=55&lines=Building+intelligent+systems.;AI+%2B+Software+%2B+Hardware.;Turning+ideas+into+real-world+systems.;Always+building.+Always+learning." alt="Typing animation"/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-MohammadAbraransar-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadAbraransar)
+[![Email](https://img.shields.io/badge/CONTACT-abraransarmd%40gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=06B6D4)](mailto:abraransarmd@gmail.com)
 
 </div>
 
@@ -17,43 +17,43 @@
 
 <div align="center">
 
-### AI · SOFTWARE · HARDWARE · INNOVATION
+### AI · COMPUTER VISION · SOFTWARE · IoT · ROBOTICS
 
 </div>
 
-## ABOUT
+## `01` — ABOUT
 
-I'm a **B.Tech student, startup founder and AI/ML builder** focused on creating practical technology.
+**B.Tech Student · Startup Founder · AI/ML Builder · Taekwondo Athlete**
 
-I work across **Artificial Intelligence, Computer Vision, Full-Stack Development, IoT, Robotics and Automation**.
+I build **AI-powered products and intelligent systems** that connect software with the physical world.
 
-My goal is simple:
+My work sits at the intersection of:
 
-> **Turn ideas into working systems that solve real problems.**
+`Artificial Intelligence` · `Computer Vision` · `Full-Stack Development` · `IoT` · `Robotics` · `Automation`
 
 ---
 
-# ♻️ CURRENTLY BUILDING
+## `02` — CURRENTLY BUILDING
 
 <div align="center">
 
-## SMART WASTE SEGREGATOR
+### ♻️ SMART WASTE SEGREGATOR
 
-**AI · COMPUTER VISION · IoT · ROBOTICS**
+**AI × COMPUTER VISION × IoT × ROBOTICS**
 
 </div>
 
-An intelligent waste-management system designed to **identify and automatically segregate different types of waste**.
+An intelligent waste-management system designed to **identify and automatically segregate waste**.
 
-**Cardboard · Plastic · Metal · Glass · Paper · Trash**
+`Cardboard` · `Plastic` · `Metal` · `Glass` · `Paper` · `Trash`
 
-Bringing AI beyond the screen and into a physical automated system.
+> **Taking AI from the screen into the real world.**
 
-**STATUS — `BUILDING`**
+**STATUS** `● BUILDING`
 
 ---
 
-# 🚀 SELECTED WORK
+## `03` — SELECTED WORK
 
 <table>
 <tr>
@@ -61,19 +61,23 @@ Bringing AI beyond the screen and into a physical automated system.
 
 ### 🌊 Samudra-AI
 
-**AI · Marine Intelligence · SIH**
+**Marine Intelligence · AI · SIH**
 
-AI-driven exploration of solutions for marine and sea-related challenges.
+Exploring AI-driven solutions for marine and ocean-related challenges.
+
+`AI` `Marine` `Research`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 InternHub / EduNexus
+### 🎓 InternHub
 
-**Education · Internship Intelligence**
+**Education · Internships · Platform**
 
 A platform focused on students, internships, opportunities and institutional workflows.
+
+`Platform` `Education` `Internships`
 
 </td>
 </tr>
@@ -85,7 +89,9 @@ A platform focused on students, internships, opportunities and institutional wor
 
 **Voice AI · Automation**
 
-Personal AI assistant focused on voice interaction and desktop automation.
+A personal AI assistant focused on voice interaction and desktop automation.
+
+`AI` `Voice` `Automation`
 
 </td>
 
@@ -97,31 +103,7 @@ Personal AI assistant focused on voice interaction and desktop automation.
 
 An intelligent rover currently under development.
 
-**`IN DEVELOPMENT`**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 EEG × VR
-
-**AI · EEG · VR**
-
-Exploring the intersection of brain signals, immersive environments and AI.
-
-**`EXPLORING`**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data & ML Projects
-
-**Python · ML · Analytics**
-
-Explorations across machine learning, data analytics and visualization.
+`IoT` `Robotics` `Hardware`
 
 </td>
 </tr>
@@ -129,49 +111,66 @@ Explorations across machine learning, data analytics and visualization.
 
 ---
 
-# 🏆 BEYOND TECHNOLOGY
+## `04` — BEYOND CODE
 
-<div align="center">
+<table>
+<tr>
 
-## 🥋 TAEKWONDO
+<td align="center" width="50%" valign="top">
 
-<br>
-
-### 🥇 NATIONAL GOLD
-
-**DELHI**
-
-<br><br>
-
-### 🥈 OPEN INTERNATIONAL SILVER
-
-**GOA**
-
-<br><br>
-
----
-
-## 🏅 LIMCA RECORD
-
-### GROUP RECORD
-
-**11,475 KICKS IN 30 MINUTES**
+### 🥋 TAEKWONDO
 
 <br>
 
----
+**🥇 NATIONAL GOLD**
 
-## 🌎 GUINNESS WORLD RECORD
+Delhi
 
-### GROUP RECORD
+<br><br>
+
+**🥈 OPEN INTERNATIONAL SILVER**
+
+Goa
+
+</td>
+
+<td align="center" width="50%" valign="top">
+
+### 🏅 LIMCA RECORD
+
+<br>
+
+**GROUP RECORD**
+
+<br>
+
+### ⚡ 11,475 KICKS
+
+**IN 30 MINUTES**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" colspan="2">
+
+### 🌎 GUINNESS WORLD RECORD
+
+**GROUP RECORD**
 
 **LARGEST DISPLAY OF KARATE — POOMSAE**
 
-</div>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💼 EXPERIENCE
+## `05` — EXPERIENCE
 
 <div align="center">
 
@@ -179,11 +178,11 @@ Explorations across machine learning, data analytics and visualization.
 
 **FOUNDER**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
 
-### 💻 INTERNSHIPS
+### 💼 INDUSTRY
 
-**2× EXPERIENCE**
+**2× INTERNSHIPS**
 
 **Elevate · EduSkills**
 
@@ -191,78 +190,41 @@ Explorations across machine learning, data analytics and visualization.
 
 ---
 
-# 🧠 TECHNOLOGY
+## `06` — TECHNOLOGY
 
 <div align="center">
 
 ### AI / ML
 
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="45"/>
 
 <br>
 
 ### DEVELOPMENT
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,fastapi" height="45"/>
 
 <br>
 
-### HARDWARE / SYSTEMS
+### SYSTEMS
 
-![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,github,firebase" height="45"/>
 
 </div>
 
 ---
 
-# 📌 WHAT I'M FOCUSED ON
+## `07` — CURRENT FOCUS
 
 <div align="center">
 
-**ARTIFICIAL INTELLIGENCE**
-
-↓
-
-**COMPUTER VISION**
-
-↓
-
-**INTELLIGENT HARDWARE**
-
-↓
-
-**ROBOTICS + IoT**
-
-↓
-
-**REAL-WORLD AUTOMATION**
-
-</div>
-
----
-
-<div align="center">
-
-# LET'S BUILD SOMETHING REAL.
-
-### AI · SOFTWARE · HARDWARE · ENTREPRENEURSHIP
-
-<br>
-
-[![Email](https://img.shields.io/badge/abraransarmd%40gmail.com-CONNECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraransarmd@gmail.com)
-
-<br><br>
-
-**© Mohammad Abrar Ansar**
-
-</div>
+```text
+AI / ML
+   ↓
+COMPUTER VISION
+   ↓
+INTELLIGENT SYSTEMS
+   ↓
+IoT + ROBOTICS
+   ↓
+REAL-WORLD AUTOMATION
