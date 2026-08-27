@@ -1,63 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,75:312e81,100:06b6d4&text=MOHAMMAD%20ABRAR%20ANSAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20BUILDER%20%E2%80%A2%20ENTREPRENEUR%20%E2%80%A2%20ATHLETE&descSize=16&descAlignY=61&animation=fadeIn" width="100%"/>
+# MOHAMMAD ABRAR ANSAR
 
-# BUILDING INTELLIGENCE FOR THE REAL WORLD.
+### AI/ML BUILDER · ENTREPRENEUR · DEVELOPER · ATHLETE
 
-### AI/ML · SOFTWARE · HARDWARE · ENTREPRENEURSHIP
+**Building intelligent systems where AI meets software, hardware and the real world.**
 
-<br/>
+<br>
 
-<a href="https://github.com/MohammadAbraransar">
-<img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:abraransarmd@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-MohammadAbraransar-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammadAbraransar)
+[![Email](https://img.shields.io/badge/Email-abraransarmd%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraransarmd@gmail.com)
 
 </div>
 
 ---
-
-## ABOUT
-
-I'm a **B.Tech student, startup founder and AI/ML builder** interested in creating technology that connects software intelligence with the real world.
-
-My work spans **AI/ML, computer vision, full-stack development, IoT, robotics and automation**.
-
-I'm currently focused on building practical systems rather than just prototypes.
-
----
-
-## ♻️ CURRENTLY BUILDING
 
 <div align="center">
 
-# SMART WASTE SEGREGATOR
-
-### AI · COMPUTER VISION · IoT · ROBOTICS
+### AI · SOFTWARE · HARDWARE · INNOVATION
 
 </div>
 
-An AI-powered system designed to **identify and automatically segregate different types of waste**.
+## ABOUT
+
+I'm a **B.Tech student, startup founder and AI/ML builder** focused on creating practical technology.
+
+I work across **Artificial Intelligence, Computer Vision, Full-Stack Development, IoT, Robotics and Automation**.
+
+My goal is simple:
+
+> **Turn ideas into working systems that solve real problems.**
+
+---
+
+# ♻️ CURRENTLY BUILDING
+
+<div align="center">
+
+## SMART WASTE SEGREGATOR
+
+**AI · COMPUTER VISION · IoT · ROBOTICS**
+
+</div>
+
+An intelligent waste-management system designed to **identify and automatically segregate different types of waste**.
 
 **Cardboard · Plastic · Metal · Glass · Paper · Trash**
 
-Combining intelligent vision with physical automation to bring AI **from the screen into the real world**.
+Bringing AI beyond the screen and into a physical automated system.
 
-**`STATUS: BUILDING`**
+**STATUS — `BUILDING`**
 
 ---
 
-## SELECTED WORK
+# 🚀 SELECTED WORK
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌊 Samudra-AI
 
-**AI · Marine Intelligence · Smart India Hackathon**
+**AI · Marine Intelligence · SIH**
 
-An AI-focused project exploring intelligent solutions for marine and sea-related challenges.
+AI-driven exploration of solutions for marine and sea-related challenges.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎓 InternHub / EduNexus
 
@@ -65,73 +75,103 @@ An AI-focused project exploring intelligent solutions for marine and sea-related
 
 A platform focused on students, internships, opportunities and institutional workflows.
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 JARVIS
 
 **Voice AI · Automation**
 
-A personal AI assistant exploring voice interaction and desktop automation.
+Personal AI assistant focused on voice interaction and desktop automation.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 🚙 Rover IoT
 
 **IoT · Robotics · Embedded Systems**
 
-An in-development intelligent rover exploring connected robotics and automation.
+An intelligent rover currently under development.
 
-**`STATUS: IN DEVELOPMENT`**
+**`IN DEVELOPMENT`**
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 EEG × VR
 
 **AI · EEG · VR**
 
-An advanced concept exploring the intersection of brain signals, immersive environments and artificial intelligence.
+Exploring the intersection of brain signals, immersive environments and AI.
 
-**`STATUS: EXPLORING`**
+**`EXPLORING`**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & ML Projects
+
+**Python · ML · Analytics**
+
+Explorations across machine learning, data analytics and visualization.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 BEYOND TECHNOLOGY
+# 🏆 BEYOND TECHNOLOGY
 
 <div align="center">
 
-### 🥋 TAEKWONDO
+## 🥋 TAEKWONDO
 
-<br/>
+<br>
 
-**🥇 NATIONAL GOLD — DELHI**
+### 🥇 NATIONAL GOLD
 
-**🥈 OPEN INTERNATIONAL SILVER — GOA**
+**DELHI**
 
-<br/><br/>
+<br><br>
+
+### 🥈 OPEN INTERNATIONAL SILVER
+
+**GOA**
+
+<br><br>
 
 ---
 
-### 🏅 LIMCA RECORD
+## 🏅 LIMCA RECORD
 
-**GROUP RECORD**
+### GROUP RECORD
 
 **11,475 KICKS IN 30 MINUTES**
 
-<br/>
+<br>
 
 ---
 
-### 🌎 GUINNESS WORLD RECORD
+## 🌎 GUINNESS WORLD RECORD
 
-**GROUP RECORD**
+### GROUP RECORD
 
-**LARGEST DISPLAY OF KARATE (POOMSAE)**
+**LARGEST DISPLAY OF KARATE — POOMSAE**
 
 </div>
 
 ---
 
-## 💼 EXPERIENCE
+# 💼 EXPERIENCE
 
 <div align="center">
 
@@ -139,7 +179,7 @@ An advanced concept exploring the intersection of brain signals, immersive envir
 
 **FOUNDER**
 
-   •   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 💻 INTERNSHIPS
 
@@ -151,37 +191,61 @@ An advanced concept exploring the intersection of brain signals, immersive envir
 
 ---
 
-## 🧠 TECHNOLOGY
+# 🧠 TECHNOLOGY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,tensorflow,opencv,arduino,raspberrypi,docker,git,github,firebase" />
+### AI / ML
 
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 
-**AI/ML** · **Computer Vision** · **Full-Stack** · **IoT** · **Robotics** · **Automation**
+<br>
+
+### DEVELOPMENT
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+<br>
+
+### HARDWARE / SYSTEMS
+
+![Arduino](https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GITHUB
+# 📌 WHAT I'M FOCUSED ON
 
 <div align="center">
 
-<a href="https://github.com/MohammadAbraransar">
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-</a>
+**ARTIFICIAL INTELLIGENCE**
 
-<a href="https://github.com/MohammadAbraransar">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</a>
+↓
 
-<br/><br/>
+**COMPUTER VISION**
 
-<a href="https://github.com/MohammadAbraransar">
-<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="165"/>
-</a>
+↓
+
+**INTELLIGENT HARDWARE**
+
+↓
+
+**ROBOTICS + IoT**
+
+↓
+
+**REAL-WORLD AUTOMATION**
 
 </div>
 
@@ -191,16 +255,14 @@ An advanced concept exploring the intersection of brain signals, immersive envir
 
 # LET'S BUILD SOMETHING REAL.
 
-### AI · SOFTWARE · HARDWARE · INNOVATION
+### AI · SOFTWARE · HARDWARE · ENTREPRENEURSHIP
 
-<br/>
+<br>
 
-<a href="mailto:abraransarmd@gmail.com">
-<img src="https://img.shields.io/badge/abraransarmd%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/abraransarmd%40gmail.com-CONNECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abraransarmd@gmail.com)
 
-<br/><br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,45:312e81,100:020617&section=footer" width="100%"/>
+**© Mohammad Abrar Ansar**
 
 </div>
