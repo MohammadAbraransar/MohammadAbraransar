@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,75:312e81,100:06b6d4&text=MOHAMMAD%20ABRAR%20ANSAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20ENTREPRENEUR&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,75:312e81,100:06b6d4&text=MOHAMMAD%20ABRAR%20ANSAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20BUILDER%20%E2%80%A2%20ENTREPRENEUR%20%E2%80%A2%20ATHLETE&descSize=16&descAlignY=61&animation=fadeIn" width="100%"/>
 
 # BUILDING INTELLIGENCE FOR THE REAL WORLD.
 
-### AI/ML Builder · B.Tech Student · Startup Founder · Athlete
+### AI/ML · SOFTWARE · HARDWARE · ENTREPRENEURSHIP
 
 <br/>
 
 <a href="https://github.com/MohammadAbraransar">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:abraransarmd@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -21,11 +21,11 @@
 
 ## ABOUT
 
-I build **AI-powered products and intelligent systems** across software, hardware and automation.
+I'm a **B.Tech student, startup founder and AI/ML builder** interested in creating technology that connects software intelligence with the real world.
 
-My interests span **AI/ML, computer vision, full-stack development, IoT and robotics** — with a focus on turning ideas into practical systems.
+My work spans **AI/ML, computer vision, full-stack development, IoT, robotics and automation**.
 
-Currently building, experimenting and learning at the intersection of **intelligence + engineering + real-world impact**.
+I'm currently focused on building practical systems rather than just prototypes.
 
 ---
 
@@ -43,7 +43,7 @@ An AI-powered system designed to **identify and automatically segregate differen
 
 **Cardboard · Plastic · Metal · Glass · Paper · Trash**
 
-Combining intelligent vision with physical automation to take AI **from the screen into the real world**.
+Combining intelligent vision with physical automation to bring AI **from the screen into the real world**.
 
 **`STATUS: BUILDING`**
 
@@ -55,13 +55,13 @@ Combining intelligent vision with physical automation to take AI **from the scre
 
 **AI · Marine Intelligence · Smart India Hackathon**
 
-Exploring AI-driven solutions for marine and sea-related challenges.
+An AI-focused project exploring intelligent solutions for marine and sea-related challenges.
 
 ---
 
 ### 🎓 InternHub / EduNexus
 
-**AI · Education · Internship Platform**
+**Education · Internship Intelligence**
 
 A platform focused on students, internships, opportunities and institutional workflows.
 
@@ -87,9 +87,9 @@ An in-development intelligent rover exploring connected robotics and automation.
 
 ### 🧠 EEG × VR
 
-**AI · EEG · VR · Human–Computer Interaction**
+**AI · EEG · VR**
 
-An advanced concept exploring the intersection of brain signals, immersive environments and AI.
+An advanced concept exploring the intersection of brain signals, immersive environments and artificial intelligence.
 
 **`STATUS: EXPLORING`**
 
@@ -101,29 +101,31 @@ An advanced concept exploring the intersection of brain signals, immersive envir
 
 ### 🥋 TAEKWONDO
 
+<br/>
+
 **🥇 NATIONAL GOLD — DELHI**
 
 **🥈 OPEN INTERNATIONAL SILVER — GOA**
 
-<br/>
+<br/><br/>
 
-### ⚡ 11,475 KICKS · 30 MINUTES
-
-Personal achievement associated with the Limca Record event.
-
-<br/>
+---
 
 ### 🏅 LIMCA RECORD
 
 **GROUP RECORD**
 
+**11,475 KICKS IN 30 MINUTES**
+
 <br/>
+
+---
 
 ### 🌎 GUINNESS WORLD RECORD
 
 **GROUP RECORD**
 
-**Largest Display of Karate (Koyogi)**
+**LARGEST DISPLAY OF KARATE (POOMSAE)**
 
 </div>
 
@@ -135,13 +137,13 @@ Personal achievement associated with the Limca Record event.
 
 ### 🚀 STARTUP
 
-**Founder**
+**FOUNDER**
 
    •   
 
 ### 💻 INTERNSHIPS
 
-**2× Experience**
+**2× EXPERIENCE**
 
 **Elevate · EduSkills**
 
@@ -155,11 +157,7 @@ Personal achievement associated with the Limca Record event.
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,tensorflow,opencv,arduino,raspberrypi,docker,git,github,firebase" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 **AI/ML** · **Computer Vision** · **Full-Stack** · **IoT** · **Robotics** · **Automation**
 
@@ -172,17 +170,17 @@ Personal achievement associated with the Limca Record event.
 <div align="center">
 
 <a href="https://github.com/MohammadAbraransar">
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 </a>
 
 <a href="https://github.com/MohammadAbraransar">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/MohammadAbraransar">
-<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="165"/>
 </a>
 
 </div>
@@ -191,9 +189,9 @@ Personal achievement associated with the Limca Record event.
 
 <div align="center">
 
-## LET'S BUILD SOMETHING REAL.
+# LET'S BUILD SOMETHING REAL.
 
-**AI · SOFTWARE · HARDWARE · INNOVATION**
+### AI · SOFTWARE · HARDWARE · INNOVATION
 
 <br/>
 
