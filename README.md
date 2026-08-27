@@ -1,75 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:312e81,100:06b6d4&text=Mohammad%20Abrar%20Ansar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Builder%20%E2%80%A2%20Entrepreneur%20%E2%80%A2%20Athlete&descSize=17&descAlignY=61&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:172554,75:312e81,100:06b6d4&text=MOHAMMAD%20ABRAR%20ANSAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20ENTREPRENEUR&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
-# Building Intelligence. Creating Impact.
+# BUILDING INTELLIGENCE FOR THE REAL WORLD.
 
-### AI/ML · Computer Vision · Full-Stack · IoT · Robotics
+### AI/ML Builder · B.Tech Student · Startup Founder · Athlete
 
 <br/>
 
 <a href="https://github.com/MohammadAbraransar">
-<img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:abraransarmd@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20touch-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## `01` — PROFILE
+## ABOUT
 
-**B.Tech student · Startup founder · AI/ML builder · Taekwondo athlete**
+I build **AI-powered products and intelligent systems** across software, hardware and automation.
 
-I build technology at the intersection of **artificial intelligence, software and physical systems**.
+My interests span **AI/ML, computer vision, full-stack development, IoT and robotics** — with a focus on turning ideas into practical systems.
 
-My work ranges from computer-vision systems and AI platforms to IoT, robotics and automation. I enjoy taking ideas from **concept → prototype → working system**.
-
-Currently focused on building **AI-powered real-world systems**.
+Currently building, experimenting and learning at the intersection of **intelligence + engineering + real-world impact**.
 
 ---
 
-## `02` — FEATURED BUILD
+## ♻️ CURRENTLY BUILDING
 
 <div align="center">
 
-# ♻️ SMART WASTE SEGREGATOR
+# SMART WASTE SEGREGATOR
 
-### Computer Vision × AI × Robotics × IoT
+### AI · COMPUTER VISION · IoT · ROBOTICS
 
 </div>
 
-An intelligent waste-management system designed to **detect, classify and physically segregate waste**.
+An AI-powered system designed to **identify and automatically segregate different types of waste**.
 
-**Stack**
+**Cardboard · Plastic · Metal · Glass · Paper · Trash**
 
-`YOLO / Ultralytics` `Python` `OpenCV` `Raspberry Pi` `Arduino` `FastAPI` `React / Vite`
+Combining intelligent vision with physical automation to take AI **from the screen into the real world**.
 
-**Detection**
-
-`Cardboard` · `Plastic` · `Metal` · `Glass` · `Paper` · `Trash`
-
-**Engineering**
-
-* Multi-object detection
-* Confidence gating
-* Non-Maximum Suppression
-* Conveyor tracking
-* Camera-based detection
-* IR sensing
-* Inductive sensing
-* Motor / actuator integration
-* Raspberry Pi + Arduino communication
-
-> **The objective:** move computer vision beyond the screen and into a physical automated system.
-
-**STATUS → `BUILDING`**
+**`STATUS: BUILDING`**
 
 ---
 
-## `03` — SELECTED WORK
+## SELECTED WORK
 
 ### 🌊 Samudra-AI
 
@@ -81,17 +61,17 @@ Exploring AI-driven solutions for marine and sea-related challenges.
 
 ### 🎓 InternHub / EduNexus
 
-**AI · Education · Internship Intelligence**
+**AI · Education · Internship Platform**
 
-A platform concept connecting students, skills, assessments and internship opportunities with institutional workflows.
+A platform focused on students, internships, opportunities and institutional workflows.
 
 ---
 
 ### 🤖 JARVIS
 
-**Voice AI · Desktop Automation**
+**Voice AI · Automation**
 
-A personal AI assistant exploring voice interaction, command execution and desktop automation.
+A personal AI assistant exploring voice interaction and desktop automation.
 
 ---
 
@@ -99,55 +79,33 @@ A personal AI assistant exploring voice interaction, command execution and deskt
 
 **IoT · Robotics · Embedded Systems**
 
-An in-development intelligent rover exploring sensors, communication, control systems and robotics.
+An in-development intelligent rover exploring connected robotics and automation.
 
-**STATUS → `IN DEVELOPMENT`**
+**`STATUS: IN DEVELOPMENT`**
 
 ---
 
 ### 🧠 EEG × VR
 
-**EEG · VR · AI · Human–Computer Interaction**
+**AI · EEG · VR · Human–Computer Interaction**
 
-An advanced concept exploring the combination of EEG signals, immersive environments and artificial intelligence.
+An advanced concept exploring the intersection of brain signals, immersive environments and AI.
 
-**STATUS → `EXPLORING`**
-
----
-
-## `04` — EXPERIENCE
-
-### 🚀 Entrepreneurship
-
-**Startup Founder**
-
-Building technology-driven products and solutions.
-
-### 💼 Industry
-
-**2× Internship Experience**
-
-**Elevate · EduSkills**
+**`STATUS: EXPLORING`**
 
 ---
 
-## `05` — BEYOND CODE
+## 🏆 BEYOND TECHNOLOGY
 
 <div align="center">
 
 ### 🥋 TAEKWONDO
 
-**🥇 National — Gold Medal**
-Delhi
+**🥇 NATIONAL GOLD — DELHI**
 
-**🥈 Open International — Silver Medal**
-Goa
+**🥈 OPEN INTERNATIONAL SILVER — GOA**
 
 <br/>
-
-### 🏆 RECORD ACHIEVEMENTS
-
-**Limca Record — Group Achievement**
 
 ### ⚡ 11,475 KICKS · 30 MINUTES
 
@@ -155,49 +113,77 @@ Personal achievement associated with the Limca Record event.
 
 <br/>
 
-**Guinness World Record — Group Achievement**
+### 🏅 LIMCA RECORD
 
-### Largest Display of Karate (Koyogi)
+**GROUP RECORD**
+
+<br/>
+
+### 🌎 GUINNESS WORLD RECORD
+
+**GROUP RECORD**
+
+**Largest Display of Karate (Koyogi)**
 
 </div>
 
 ---
 
-## `06` — TECHNOLOGY
+## 💼 EXPERIENCE
 
 <div align="center">
 
-### AI / ML
+### 🚀 STARTUP
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+**Founder**
 
-<br/>
+   •   
 
-### DEVELOPMENT
+### 💻 INTERNSHIPS
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,fastapi" />
+**2× Experience**
 
-<br/>
-
-### HARDWARE / SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,github,firebase" />
+**Elevate · EduSkills**
 
 </div>
 
 ---
 
-## `07` — GITHUB
+## 🧠 TECHNOLOGY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,fastapi,tensorflow,opencv,arduino,raspberrypi,docker,git,github,firebase" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="165"/>
+<div align="center">
+
+**AI/ML** · **Computer Vision** · **Full-Stack** · **IoT** · **Robotics** · **Automation**
+
+</div>
+
+---
+
+## 📊 GITHUB
+
+<div align="center">
+
+<a href="https://github.com/MohammadAbraransar">
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+</a>
+
+<a href="https://github.com/MohammadAbraransar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/MohammadAbraransar">
+<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="170"/>
+</a>
 
 </div>
 
@@ -205,18 +191,18 @@ Personal achievement associated with the Limca Record event.
 
 <div align="center">
 
-## LET'S BUILD.
+## LET'S BUILD SOMETHING REAL.
 
 **AI · SOFTWARE · HARDWARE · INNOVATION**
 
 <br/>
 
 <a href="mailto:abraransarmd@gmail.com">
-<img src="https://img.shields.io/badge/abraransarmd%40gmail.com-Contact%20Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/abraransarmd%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:312e81,100:020617&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,45:312e81,100:020617&section=footer" width="100%"/>
 
 </div>
