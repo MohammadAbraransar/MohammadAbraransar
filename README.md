@@ -1,255 +1,185 @@
 <div align="center">
 
-# MOHAMMAD ABRAR ANSAR
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:312e81,100:06b6d4&text=Mohammad%20Abrar%20Ansar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Builder%20%E2%80%A2%20Entrepreneur%20%E2%80%A2%20Athlete&descSize=17&descAlignY=61&animation=fadeIn" width="100%"/>
 
-### AI/ML BUILDER · ENTREPRENEUR · FULL-STACK DEVELOPER · ATHLETE
+# Building Intelligence. Creating Impact.
 
-**Building intelligent systems where AI meets software, hardware and the real world.**
+### AI/ML · Computer Vision · Full-Stack · IoT · Robotics
 
 <br/>
 
 <a href="https://github.com/MohammadAbraransar">
-  <img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:abraransarmd@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Get%20in%20touch-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ ABOUT ME
+## `01` — PROFILE
 
-I'm a **B.Tech student, entrepreneur and technology builder** exploring the intersection of:
+**B.Tech student · Startup founder · AI/ML builder · Taekwondo athlete**
 
-**Artificial Intelligence · Computer Vision · Full-Stack Development · IoT · Robotics · Automation**
+I build technology at the intersection of **artificial intelligence, software and physical systems**.
 
-I enjoy taking ideas beyond the concept stage and turning them into **working systems** — combining software intelligence with real-world applications.
+My work ranges from computer-vision systems and AI platforms to IoT, robotics and automation. I enjoy taking ideas from **concept → prototype → working system**.
 
-I've also gained industry exposure through **2 internships**, worked on startup initiatives, and continue to build projects across AI, software, hardware and intelligent automation.
-
-Outside technology, I'm an **active Taekwondo athlete**, national-level medalist and part of multiple record-setting achievements.
-
-> **I don't just want to learn technology. I want to build with it.**
+Currently focused on building **AI-powered real-world systems**.
 
 ---
 
-# 🚀 WHAT I'M BUILDING
+## `02` — FEATURED BUILD
 
-## ♻️ Smart Waste Segregator
+<div align="center">
 
-### AI × Computer Vision × Robotics × IoT
+# ♻️ SMART WASTE SEGREGATOR
 
-My primary/current project — an intelligent system designed to identify and physically segregate different categories of waste.
+### Computer Vision × AI × Robotics × IoT
 
-```text
-                         CAMERA
-                            │
-                            ▼
-                    ┌──────────────┐
-                    │ AI DETECTION │
-                    │ YOLO / CV    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ CLASSIFICATION  │
-                  │ + CONFIDENCE    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ CONVEYOR        │
-                  │ TRACKING        │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ HARDWARE CONTROL│
-                  │ Arduino / RPi   │
-                  └────────┬────────┘
-                           │
-                           ▼
-                    ♻️ SORTED WASTE
-```
+</div>
 
-### Core Engineering
+An intelligent waste-management system designed to **detect, classify and physically segregate waste**.
 
-* YOLO / Ultralytics
-* Computer Vision
-* Multi-object detection
-* Non-Maximum Suppression
-* Confidence gating
-* Conveyor tracking
-* Raspberry Pi
-* Arduino
-* IR sensors
-* Inductive sensing
-* Motor integration
-* FastAPI
-* React / Vite
+**Stack**
 
-### Waste Classes
+`YOLO / Ultralytics` `Python` `OpenCV` `Raspberry Pi` `Arduino` `FastAPI` `React / Vite`
+
+**Detection**
 
 `Cardboard` · `Plastic` · `Metal` · `Glass` · `Paper` · `Trash`
 
-**Goal:** combine AI perception with physical automation to create a practical intelligent waste-management system.
+**Engineering**
+
+* Multi-object detection
+* Confidence gating
+* Non-Maximum Suppression
+* Conveyor tracking
+* Camera-based detection
+* IR sensing
+* Inductive sensing
+* Motor / actuator integration
+* Raspberry Pi + Arduino communication
+
+> **The objective:** move computer vision beyond the screen and into a physical automated system.
+
+**STATUS → `BUILDING`**
 
 ---
 
-# 🌊 FEATURED PROJECTS
+## `03` — SELECTED WORK
 
-## 🌊 Samudra-AI
+### 🌊 Samudra-AI
 
 **AI · Marine Intelligence · Smart India Hackathon**
 
-An AI-focused project developed around a **Smart India Hackathon problem statement**, exploring intelligent solutions for marine and sea-related challenges.
-
-A project driven by the idea of applying AI to **environmental and real-world problems at scale**.
+Exploring AI-driven solutions for marine and sea-related challenges.
 
 ---
 
-## 🎓 InternHub / EduNexus
+### 🎓 InternHub / EduNexus
 
 **AI · Education · Internship Intelligence**
 
-A platform concept focused on students, internships, opportunities and institutional workflows.
-
-The system explores how technology can connect:
-
-```text
-Students
-   ↓
-Skills
-   ↓
-Assessment
-   ↓
-Opportunities
-   ↓
-Institutional Intelligence
-```
+A platform concept connecting students, skills, assessments and internship opportunities with institutional workflows.
 
 ---
 
-## 🤖 JARVIS
+### 🤖 JARVIS
 
-**Voice AI · Personal Assistant · Automation**
+**Voice AI · Desktop Automation**
 
-A personal desktop AI assistant focused on voice interaction, command execution and automation.
-
-The project explores a more natural interface between humans and computers.
+A personal AI assistant exploring voice interaction, command execution and desktop automation.
 
 ---
 
-## 🚙 Rover IoT
+### 🚙 Rover IoT
 
 **IoT · Robotics · Embedded Systems**
 
-Currently in development.
+An in-development intelligent rover exploring sensors, communication, control systems and robotics.
 
-Exploring the integration of:
-
-`Sensors` · `Communication` · `Control` · `Embedded Systems` · `Robotics` · `AI`
-
-**STATUS:** `IN DEVELOPMENT`
+**STATUS → `IN DEVELOPMENT`**
 
 ---
 
-## 🧠 EEG × VR Virtual World
+### 🧠 EEG × VR
 
 **EEG · VR · AI · Human–Computer Interaction**
 
-An advanced concept exploring the intersection of brain signals, immersive virtual environments and artificial intelligence.
+An advanced concept exploring the combination of EEG signals, immersive environments and artificial intelligence.
 
-**STATUS:** `RESEARCH / CONCEPT DEVELOPMENT`
+**STATUS → `EXPLORING`**
 
 ---
 
-# 💼 EXPERIENCE
+## `04` — EXPERIENCE
 
-### 🚀 ENTREPRENEURSHIP
+### 🚀 Entrepreneurship
 
 **Startup Founder**
 
-Building and exploring technology-driven solutions beyond traditional academic projects.
+Building technology-driven products and solutions.
 
-### 💻 INDUSTRY EXPOSURE
+### 💼 Industry
 
 **2× Internship Experience**
 
-Experience associated with:
-
-* **Elevate**
-* **EduSkills**
+**Elevate · EduSkills**
 
 ---
 
-# 🏆 BEYOND CODE
+## `05` — BEYOND CODE
 
 <div align="center">
 
-## 🥋 TAEKWONDO
+### 🥋 TAEKWONDO
 
-### 🥇 NATIONAL GOLD MEDAL
+**🥇 National — Gold Medal**
+Delhi
 
-**Delhi**
+**🥈 Open International — Silver Medal**
+Goa
 
-### 🥈 OPEN INTERNATIONAL SILVER MEDAL
+<br/>
 
-**Goa**
+### 🏆 RECORD ACHIEVEMENTS
+
+**Limca Record — Group Achievement**
+
+### ⚡ 11,475 KICKS · 30 MINUTES
+
+Personal achievement associated with the Limca Record event.
+
+<br/>
+
+**Guinness World Record — Group Achievement**
+
+### Largest Display of Karate (Koyogi)
 
 </div>
 
 ---
 
-# 🏅 RECORD ACHIEVEMENTS
+## `06` — TECHNOLOGY
 
 <div align="center">
 
-### 🏅 LIMCA RECORD
-
-**GROUP RECORD**
-
-<br/>
-
-### PERSONAL PERFORMANCE
-
-# **11,475 KICKS**
-
-### **IN 30 MINUTES**
-
-<br/>
-
----
-
-### 🌎 GUINNESS WORLD RECORD
-
-**GROUP RECORD**
-
-### **LARGEST DISPLAY OF KARATE (KOYOGI)**
-
-</div>
-
----
-
-# 🧠 TECHNOLOGY
-
-<div align="center">
-
-### AI / MACHINE LEARNING
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 
-<br/><br/>
+<br/>
 
 ### DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,fastapi" />
 
-<br/><br/>
+<br/>
 
-### SYSTEMS / HARDWARE
+### HARDWARE / SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,github,firebase" />
 
@@ -257,137 +187,17 @@ Experience associated with:
 
 ---
 
-# 🔬 TECHNICAL INTERESTS
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   ARTIFICIAL INTELLIGENCE                            │
-│          │                                           │
-│          ├── Computer Vision                         │
-│          ├── Machine Learning                        │
-│          ├── Deep Learning                           │
-│          └── AI Assistants                           │
-│                                                      │
-│   INTELLIGENT SYSTEMS                                │
-│          │                                           │
-│          ├── IoT                                     │
-│          ├── Robotics                                │
-│          ├── Embedded Systems                         │
-│          └── Hardware–Software Integration            │
-│                                                      │
-│   SOFTWARE                                            │
-│          │                                           │
-│          ├── Full-Stack Development                   │
-│          ├── APIs                                    │
-│          ├── Automation                              │
-│          └── Data Systems                             │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
-# 📊 OTHER PROJECTS
-
-| Project                           | Focus                                 |
-| :-------------------------------- | :------------------------------------ |
-| 📸 **Smart Attendance System**    | AI/ML · Automated Identification      |
-| 🚗 **Automobile Data Analytics**  | Python · Pandas · EDA · Visualization |
-| 🤖 **ML Fundamentals**            | Machine Learning                      |
-| 🧠 **Deep Learning Fundamentals** | Neural Networks · Deep Learning       |
-| 📊 **Data Analytics & EDA**       | Data Processing · Analysis            |
-| 📱 **Auto_Msger**                 | Automation · Messaging                |
-| 💻 **Personal Desktop Assistant** | Automation · AI                       |
-
----
-
-# 🧭 HOW I BUILD
-
-```text
-        IDEA
-         │
-         ▼
-      RESEARCH
-         │
-         ▼
-      PROTOTYPE
-         │
-         ▼
-      ENGINEERING
-         │
-         ▼
-       TESTING
-         │
-         ▼
-    REAL-WORLD SYSTEM
-```
-
-I'm particularly interested in projects where **software intelligence creates measurable physical or real-world impact**.
-
----
-
-# 📈 GITHUB
+## `07` — GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadAbraransar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🎯 CURRENT FOCUS
-
-<div align="center">
-
-**AI/ML**
-
-↓
-
-**Computer Vision**
-
-↓
-
-**Intelligent Hardware**
-
-↓
-
-**Robotics + IoT**
-
-↓
-
-**Real-World Automation**
-
-</div>
-
-I'm currently focused on building systems that move beyond demos and toward **practical, usable technology**.
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-### MOHAMMAD ABRAR ANSAR
-
-**AI/ML Builder · Entrepreneur · Developer · Athlete**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAbraransar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-📧 **[abraransarmd@gmail.com](mailto:abraransarmd@gmail.com)**
-
-<br/><br/>
-
-<a href="https://github.com/MohammadAbraransar">
-<img src="https://img.shields.io/badge/GitHub-MohammadAbraransar-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=MohammadAbraransar&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -395,8 +205,18 @@ I'm currently focused on building systems that move beyond demos and toward **pr
 
 <div align="center">
 
-### ⚡ BUILD · EXPERIMENT · LEARN · SHIP ⚡
+## LET'S BUILD.
 
-**Turning ideas into intelligent systems.**
+**AI · SOFTWARE · HARDWARE · INNOVATION**
+
+<br/>
+
+<a href="mailto:abraransarmd@gmail.com">
+<img src="https://img.shields.io/badge/abraransarmd%40gmail.com-Contact%20Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:312e81,100:020617&section=footer" width="100%"/>
 
 </div>
